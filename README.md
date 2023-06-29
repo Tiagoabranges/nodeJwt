@@ -1,10 +1,8 @@
 
 <h1>Curso de Node.js: criptografia e tokens JWT</h1>
-- Este repositório contém o código e informações relacionadas ao curso "Tokens JWT e Autenticação" da Alura. O curso foi projetado para fornecer conhecimentos práticos e teóricos sobre autenticação e autorização utilizando tokens JWT (JSON Web Tokens).
+Este repositório contém o código e informações relacionadas ao curso "Tokens JWT e Autenticação" da Alura. O curso foi projetado para fornecer conhecimentos práticos e teóricos sobre autenticação e autorização utilizando tokens JWT (JSON Web Tokens).
 
-## Descrição do Curso
-
- O curso de "Criptografia" tem como objetivo fornecer conhecimentos teóricos e práticos sobre os conceitos e técnicas de criptografia. Durante o curso, você terá a oportunidade de:
+<h2> Descrição do Curso</h2>
 
 * Conhecer a história da criptografia e entender a sua importância na proteção de informações.
 * Explorar o contexto atual da área de estudos da criptografia, incluindo desafios e avanços recentes.
